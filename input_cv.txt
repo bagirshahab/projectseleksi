@@ -1,0 +1,2 @@
+S1,Ya,Coding,3.8
+S2,Tidak,Bahasa Asing,3.0
